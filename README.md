@@ -27,7 +27,8 @@ pip install requests
 
 * Make sure you have downloaded all the packest in "Prerequisites". Next download "elevation.py" and "cities.py". elevation.py imports functions from cities.py
 * A seperate python file named "apikey.py" will need to be created containing the line "key = "YOUR API KEY" with the api key you retrieve  from google 
-* Ensure that these two files are in the same directory or they will not be able to import each other. **Finally**, run the elvation.py file and the project will start.
+* Ensure that these three files(elevation.py, cities.py, and apikey.py) are in the same directory or they will not be able to import each other. 
+* **Finally**, run the elvation.py file and the project will start.
 
 ## Authors
 
